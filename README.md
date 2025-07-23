@@ -170,19 +170,18 @@ To build a machine learning model that accurately predicts the sentiment of a tw
 
 ## 🔧 Technologies & Libraries Used
 
--Python
+ - Python
 
--Pandas – for data manipulation
+ - Pandas – for data manipulation
 
--NumPy – for numerical computations
+ - NumPy – for numerical computations
 
--Matplotlib / WordCloud – for visualization
+ - Matplotlib / WordCloud – for visualization
 
--Scikit-learn – for machine learning (SVM, TF-IDF, etc.)
+ - Scikit-learn – for machine learning (SVM, TF-IDF, etc.)
 
--NLTK – for natural language processing tasks
+ - NLTK – for natural language processing tasks
 
-## Project Workflow
 
 ## 🔍 Key Steps in the Notebook
 
