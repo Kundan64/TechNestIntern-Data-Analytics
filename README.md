@@ -160,15 +160,15 @@ Regional growth campaigns in the South
 
 Promote high-revenue categories more aggressively
 
-# Twitter-Sentiment-Analysis-using-SVM
+# 🐦 Twitter-Sentiment-Analysis-using-SVM
 
 This project analyzes the sentiments of tweets using Natural Language Processing (NLP) and a Support Vector Machine (SVM) classifier. It classifies tweets into Positive, Negative, or Neutral categories. The model is trained on labeled tweet data and visualized through graphs and word clouds.
 
-## Project Objective
+## 📌 Project Objective
 
 To build a machine learning model that accurately predicts the sentiment of a tweet. This helps in analyzing public opinion, tracking brand sentiment, and monitoring customer feedback in real time.
 
-## Technologies & Libraries Used
+## 🔧 Technologies & Libraries Used
 
 -Python
 
@@ -184,28 +184,29 @@ To build a machine learning model that accurately predicts the sentiment of a tw
 
 ## Project Workflow
 
-## 1.Data Cleaning & Preprocessing
+## 🔍 Key Steps in the Notebook
 
-Lowercasing text
+1. **Data Loading**  
+   Load the Twitter dataset into a Pandas DataFrame.
 
-Removing noise (mentions, hashtags, URLs, etc.)
+2. **Text Preprocessing**  
+   - Lowercasing  
+   - Removing punctuation, stopwords, and special characters  
+   - Tokenization and lemmatization
 
-Tokenization
+3. **Feature Engineering**  
+   - Convert cleaned text into numerical vectors using **TF-IDF**
 
-Stopword removal
+4. **Model Training**  
+   - Train an **SVM classifier** on the processed data
+   - Split data into training and testing sets
 
-## 2.Feature Extraction
+5. **Evaluation**  
+   - Use accuracy, precision, recall, and F1-score
+   - Confusion matrix for visual performance analysis
 
-TF-IDF Vectorization to convert text into numerical form
+6. **Visualization**  
+   - Pie chart or bar chart of sentiment distribution
+   - Confusion matrix heatmap
 
-## 3.Model Building
 
-Training an SVM classifier using Scikit-learn
-
-Evaluating with confusion matrix and classification report
-
-## 4.Visualization
-
-Bar chart showing sentiment distribution
-
-Word clouds for each sentiment category
