@@ -9,11 +9,8 @@ This project focuses on performing Customer Segmentation using unsupervised mach
 To analyze customer data and group individuals into meaningful segments based on their annual income and spending behavior. These insights can help businesses:
 
 Develop targeted marketing strategies
-
 Enhance customer engagement
-
 Increase conversion rates
-
 Identify potential growth opportunities
 
 #### Methodology
