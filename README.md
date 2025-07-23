@@ -19,8 +19,10 @@ To analyze customer data and group individuals into meaningful segments based on
 ### Methodology
 
 **1.Data Preprocessing**
-  •	Handling missing values
-  •	Data formatting and exploration
+
+   •	Handling missing values
+  
+   •	Data formatting and exploration
 
 **2.Exploratory Data Analysis (EDA)**
 
