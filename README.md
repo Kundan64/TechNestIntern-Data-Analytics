@@ -19,13 +19,17 @@ Identify potential growth opportunities
 #### Methodology
 
 **1.Data Preprocessing**
+
 Handling missing values
+
 Data formatting and exploration
 
 **2.Exploratory Data Analysis (EDA)**
 
 Distribution plots
+
 Correlation heatmaps
+
 Cluster-wise visualizations
 
 **3.Feature Scaling**
@@ -35,6 +39,7 @@ StandardScaler to normalize features
 **4.Clustering**
 
 K-Means algorithm
+
 Elbow Method and Silhouette Score to determine optimal cluster count
 
 **5.Visualization**
