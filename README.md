@@ -52,3 +52,45 @@ To analyze customer data and group individuals into meaningful segments based on
  •	Found high-income but low-spending individuals—potentially underserved customers.
 
  •	These segments help design personalized marketing strategies and improve customer lifetime value (CLV).
+
+ # ⚡ Electric Vehicle Analysis Dashboard
+
+A comprehensive Business Intelligence (BI) dashboard that visualizes and analyzes electric vehicle (EV) adoption trends across various manufacturers, models, and regions.
+
+## 📌 Project Overview
+
+This dashboard offers insights into electric vehicle usage, market share by vehicle make and model, eligibility for Clean Air Vehicle programs, and overall growth trends from 2011 to 2023.
+
+## 🧩 Key Features
+
+- 📊 Total Vehicles Analyzed: **150.48K**
+- 🔋 Battery Electric Vehicles (BEVs): **117K (78%)**
+- ⚙️ Plug-in Hybrid Electric Vehicles (PHEVs): **34K (22%)**
+- 📈 EV Growth Trend: Significant increase, peaking at **37K** in a single year
+- 🚘 **Top Makes**: Tesla, Nissan, Chevrolet, Ford, BMW
+- 🏆 **Top Models**: Model Y (29K), Model 3 (28K), LEAF, Bolt, ID.4, Mustang Mach-E
+- 🌎 EV distribution visualized on an interactive map
+- ✅ CAFV (Clean Alternative Fuel Vehicle) Eligibility:
+  - Eligible: 46.32%
+  - Not Eligible / Clean Alt. Fuel: remainder
+
+## 📍 Tools Used
+
+- **Power BI** *(or Tableau/Excel – update as per your tech stack)*
+- DAX (Data Analysis Expressions)
+- Interactive filters: City, Utility Company, Vehicle Type
+
+## 📈 Visualizations Included
+
+- Pie charts (CAFV eligibility, EV type)
+- Line chart (year-wise growth trend)
+- Tree map (top models)
+- Bar charts (make-wise vehicle count)
+- Geo map (top vehicles by state)
+
+## 🧠 Insights & Use Cases
+
+- Identify EV adoption patterns across regions
+- Assess which vehicle makes/models lead the market
+- Understand vehicle eligibility under green initiatives
+- Assist policymakers, environmental researchers, and utility companies with EV planning and infrastructure
