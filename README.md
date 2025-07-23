@@ -96,45 +96,45 @@ This dashboard offers insights into electric vehicle usage, market share by vehi
 - Assist policymakers, environmental researchers, and utility companies with EV planning and infrastructure
 
 # 🛍️ Exploratory Data Analysis (EDA) on Retail Sales Dataset
-📌 Project Overview
+## 📌 Project Overview
 
 This project focuses on performing Exploratory Data Analysis (EDA) on a retail sales dataset to uncover insights about sales performance, trends, patterns, and seasonality. Using powerful data analysis and visualization tools in Python, the aim is to assist business decision-making and strategy development.
 
-📊 Objectives
+## 📊 Objectives
 
-Analyze overall sales trends over time
+   - Analyze overall sales trends over time
 
-Identify seasonality in monthly sales
+   -  Identify seasonality in monthly sales
 
-Understand category-wise and region-wise performance
+   -  Understand category-wise and region-wise performance
 
-Highlight actionable insights using data visualizations
+   -  Highlight actionable insights using data visualizations
 
-🧰 Tools & Technologies
+## 🧰 Tools & Technologies
 
-Python
+  - Python
 
-Pandas – data manipulation
+  - Pandas – data manipulation
 
-NumPy – numerical calculations
+  - NumPy – numerical calculations
 
-Matplotlib & Seaborn – data visualization
+  - Matplotlib & Seaborn – data visualization
 
-📁 Dataset Summary
+## 📁 Dataset Summary
 
-The dataset contains detailed retail transaction records including:
+  - The dataset contains detailed retail transaction records including:
 
-Order Date
+  - Order Date
 
-Sales
+  - Sales
 
-Category & Sub-Category
+  - Category & Sub-Category
 
-Region, State, and City
+  - Region, State, and City
 
-Quantity, Profit, Discount
+  - Quantity, Profit, Discount
 
-📈 Key Analyses & Visualizations
+## 📈 Key Analyses & Visualizations
 
 ✔️ Yearly Sales Trend Shows a clear upward trend in total sales over the years.
 
@@ -146,19 +146,19 @@ Quantity, Profit, Discount
 
 ✔️ Region-wise Sales The West region is the top performer, while the South region shows growth potential.
 
-📌 Insights
+## 📌 Insights
 
-High-performing periods: November, December, and February
+  - High-performing periods: November, December, and February
 
-Underperforming months: Mid-year (April–August)
+  - Underperforming months: Mid-year (April–August)
 
-Strategic Focus:
+  - Strategic Focus:
 
-Boost marketing during mid-year dips
+  - Boost marketing during mid-year dips
 
-Regional growth campaigns in the South
+  - Regional growth campaigns in the South
 
-Promote high-revenue categories more aggressively
+  - Promote high-revenue categories more aggressively
 
 # 🐦 Twitter-Sentiment-Analysis-using-SVM
 
